@@ -1,0 +1,23 @@
+# Arquivos de saída
+
+saida/
+
+# Arquivos temporários
+
+\*.pyc
+**pycache**/
+
+# Ambientes virtuais
+
+.venv/
+venv/
+
+# Configurações de editor
+
+.vscode/
+.idea/
+
+# Sistemas operacionais
+
+.DS\_Store
+Thumbs.db
